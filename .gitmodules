@@ -1,0 +1,6 @@
+[submodule "projects/computational-methods"]
+	path = projects/computational-methods
+	url = https://github.com/mikael-ren4/computational-methods.git
+[submodule "projects/environmental-quality-engineering"]
+	path = projects/environmental-quality-engineering
+	url = https://github.com/mikael-ren4/environmental-quality-engineering.git
