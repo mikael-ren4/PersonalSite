@@ -1,7 +1,0 @@
-- name: Checkout
-  uses: actions/checkout@v4
-  with:
-    # Use the token you saved in repository secrets
-    token: ${{ secrets.SUBMODULE_TOKEN }}
-    # Tell the runner to recursively fetch your submodules
-    submodules: recursive
